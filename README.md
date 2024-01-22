@@ -1,4 +1,4 @@
-# Hospital-Patient-Records-Analysis-project
+# Hospital Patient Records Dashboard 
 
 # PROJECT OVERVIEW
 The Hospital Patient Records Analysis project aims to gain valuable insights from a dataset containing hospital patient records. The dataset comprises various attributes, including patient demographics, medical information, patient satisfaction scores, and wait times. The project seeks to understand patient characteristics, assess patient satisfaction, identify potential areas for improvement, and optimize hospital services.
