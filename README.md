@@ -11,3 +11,5 @@ The problem at hand is to analyze and gain valuable insights from the hospital p
 - Investigating wait times experienced by patients and identify factors influencing variations in wait times.
 - Assessing patient satisfaction levels based on SAT scores to gauge overall hospital performance.
 - Assessing departmental performance based on referral patterns, wait times, and patient satisfaction.
+
+# TOOL USED: Microsoft Excel
