@@ -13,3 +13,7 @@ The problem at hand is to analyze and gain valuable insights from the hospital p
 - Assessing departmental performance based on referral patterns, wait times, and patient satisfaction.
 
 # TOOL USED: Microsoft Excel
+
+# Dashboard
+![image](https://github.com/Ariyo1105/Hospital-Patient-Records-Analysis-project/assets/146656101/3fed21b5-3bd0-4b60-b178-bd99dea4623f)
+
